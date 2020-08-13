@@ -1,0 +1,20 @@
+PODS:
+  - MobileVLCKit (3.3.10)
+  - Toast (4.0.0)
+
+DEPENDENCIES:
+  - MobileVLCKit
+  - Toast
+
+SPEC REPOS:
+  trunk:
+    - MobileVLCKit
+    - Toast
+
+SPEC CHECKSUMS:
+  MobileVLCKit: 34a4d22c48ea48a36c2a6fdf290d4ea094869ac0
+  Toast: 91b396c56ee72a5790816f40d3a94dd357abc196
+
+PODFILE CHECKSUM: a9e8dfe3aae4777b2927f828fb811695d8949084
+
+COCOAPODS: 1.9.1
